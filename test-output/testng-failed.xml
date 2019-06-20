@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [brighteTestSuite]">
+  <test thread-count="5" name="brighteTestngTest(failed)">
+    <classes>
+      <class name="test.java.tests.EligibleAmountTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="EligibleAmountTest"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- test.java.tests.EligibleAmountTest -->
+    </classes>
+  </test> <!-- brighteTestngTest(failed) -->
+</suite> <!-- Failed suite [brighteTestSuite] -->

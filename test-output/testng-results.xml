@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="brighteTestSuite" duration-ms="18932" started-at="2019-06-20T01:15:09Z" finished-at="2019-06-20T01:15:28Z">
+    <groups>
+    </groups>
+    <test name="brighteTestngTest" duration-ms="18932" started-at="2019-06-20T01:15:09Z" finished-at="2019-06-20T01:15:28Z">
+      <class name="test.java.tests.EligibleAmountTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.java.tests.EligibleAmountTest@523884b2]" name="startBrowser" is-config="true" duration-ms="11519" started-at="2019-06-20T01:14:58Z" finished-at="2019-06-20T01:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="EligibleAndRepaymentAmountTest()[pri:0, instance:test.java.tests.EligibleAmountTest@523884b2]" name="EligibleAndRepaymentAmountTest" duration-ms="18880" started-at="2019-06-20T01:15:09Z" finished-at="2019-06-20T01:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EligibleAndRepaymentAmountTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.java.tests.EligibleAmountTest@523884b2]" name="closeBrowser" is-config="true" duration-ms="403" started-at="2019-06-20T01:15:28Z" finished-at="2019-06-20T01:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.java.tests.EligibleAmountTest -->
+    </test> <!-- brighteTestngTest -->
+  </suite> <!-- brighteTestSuite -->
+</testng-results>
